@@ -1,0 +1,66 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #F0E8D9;
+	color: #58595B;
+	font-family: 'BM JUA', '배달의민족 주아', Helvetica Neue, Arial;
+}
+
+h1 {
+	text-align: center;
+	font-size: 64px;
+	margin-top: 75px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 32px;
+	margin-top:30px;
+	margin-bottom: 75px;
+}
+
+.cards {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	height: 200px;
+}
+
+.card {
+	border-radius: 10px;
+	display: block;
+	text-align: center;
+	margin-bottom: 50px;
+	background-color: white;
+	padding-bottom: 20px;
+}
+
+.card-title {
+	font-size: 32px;
+	color: #58595B;
+	margin-bottom: 20px;
+	padding-top: 20px;
+}
+
+.card-subtitle {
+	font-size: 16px;
+	color: #58595B;
+	margin-bottom: 16px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: justify;
+}
+
+img {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #0000EE;
+	font-size: 16px;
+}
